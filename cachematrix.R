@@ -53,7 +53,7 @@ cacheSolve <- function(x, ...) {
   invM                   ## Return "inverse" matrix
 } 
 
-## 
+## Test run "pasted from "R console"
 ## > a <- matrix(c(0, 7, -1, 0), 2, 2) ## created a test matrix
 ## > a                                 ## printed the test matrix
 ##      [,1] [,2]
